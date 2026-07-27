@@ -2526,7 +2526,7 @@ packages:
       open: 6.4.0
       ora: 5.4.1
       semver: 7.5.4
-      shell-quote: 1.8.1
+      shell-quote: 1.9.0
       sudo-prompt: 9.2.1
     transitivePeerDependencies:
       - encoding
@@ -7819,7 +7819,7 @@ packages:
   /react-devtools-core@4.28.5:
     resolution: {integrity: sha512-cq/o30z9W2Wb4rzBefjv5fBalHU0rJGZCHAkf/RHSBWSSYwh8PlQTqqOJmgIIbBtpj27T6FIPXeomIjZtCNVqA==}
     dependencies:
-      shell-quote: 1.8.1
+      shell-quote: 1.9.0
       ws: 7.5.9
     transitivePeerDependencies:
       - bufferutil
@@ -8342,7 +8342,7 @@ packages:
     resolution: {integrity: sha512-7++dFhtcx3353uBaq8DDR4NuxBetBzC7ZQOhmTQInHEd6bSrXdiEyzCvG07Z44UYdLShWUyXt5M/yhz8ekcb1A==}
     engines: {node: '>=8'}
 
-  /shell-quote@1.8.1:
+  /shell-quote@1.9.0:
     resolution: {integrity: sha512-6j1W9l1iAs/4xYBI1SYOVZyFcCis9b4KCLQ8fgAGG07QvzaRLVVRQvAy85yNmmZSjYjg4MWh4gNvlPujU/5LpA==}
     dev: false
 
